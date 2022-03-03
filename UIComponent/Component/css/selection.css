@@ -1,0 +1,11 @@
+.select_quality {
+    background-image: url(../assets/LogiPlayer_icons/checkmark.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 26px;
+    color: #fff!important;
+    padding-right: 3vw;
+    margin-right: -48px;
+    font-family: SFProDisplayRegular;
+    font-size: 18px;
+}

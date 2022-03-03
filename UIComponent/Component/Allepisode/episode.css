@@ -1,0 +1,51 @@
+.mainContainer{
+    height: 100vh;
+    padding: 15px;
+    width: 30vw;
+    position: absolute;
+    bottom: 99% !important;
+    right: -90%;
+    background-color: #28213c;
+    float: left;
+}
+.header{
+    text-align: start;
+}
+.closeicon{
+    float: right;
+}
+.reportissuetext{
+    position: absolute;
+    width: 170px;
+    left: 5%;
+    top: 95%;
+}
+
+.episdoesList{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.episdoes{
+    list-style-type: none;
+    padding: 20px;
+    margin: 8px;
+    border-radius: 8%;
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.videoImg{
+    width: 14vw;
+    height: 12vh;
+    border-radius: 10%;
+
+}
+
+.videoDesc{
+    text-decoration: none;
+    color: white;
+    
+}
